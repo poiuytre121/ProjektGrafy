@@ -1,0 +1,7 @@
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\bin\Debug\Grafy.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\bin\Debug\Grafy.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\obj\Debug\Grafy.Logika.csprojResolveAssemblyReference.cache
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\obj\Debug\Grafy.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy\obj\Debug\Grafy.pdb
