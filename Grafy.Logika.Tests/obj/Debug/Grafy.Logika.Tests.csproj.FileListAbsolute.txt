@@ -5,3 +5,10 @@ E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy.Logika.Tes
 E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.csprojResolveAssemblyReference.cache
 E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.dll
 E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\GrafyProjekt\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Debug\Grafy.Logika.Tests.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Debug\Grafy.Logika.Tests.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Debug\Grafy.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Debug\Grafy.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.csprojResolveAssemblyReference.cache
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Debug\Grafy.Logika.Tests.pdb

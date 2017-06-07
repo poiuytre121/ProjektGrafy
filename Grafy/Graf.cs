@@ -135,7 +135,7 @@ namespace Grafy.Logika
             {
                 foreach (Wierzcholek wierzcholek2 in grupa2)
                 {
-                    if (!wierzcholek1.Sasiedzi.Contains(wierzcholek2)) return false;
+                    if (!wierzcholek1.Sasiedzi.Contains(wierzcholek2)  || !wierzcholek2.Sasiedzi.Contains(wierzcholek1)) return false;
                 }
             }
             return true;
