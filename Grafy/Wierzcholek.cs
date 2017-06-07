@@ -39,6 +39,7 @@ namespace Grafy.Logika
             this.Numer = numer;
             this.NumerySasiadow = sasiedzi.ToList();
             this.IdentyfikatorGrupy = null;
+            this.Sasiedzi = new List<Wierzcholek>();
         }
         /// <summary>
         /// Tworzy nowy obiekt klasy Wierzchołek
