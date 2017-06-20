@@ -53,9 +53,29 @@ namespace Interface
             }
             testowanyGraf.PowiazWierzcholkiGrafu();
             if (testowanyGraf.CzyPelnyDwudzielny())
-                MessageBox.Show("Graf jest dwudzielny pełny");
+            {
+                StringBuilder grupa1 = new StringBuilder();
+                StringBuilder grupa2 = new StringBuilder();
+                foreach (var wierzcholek in testowanyGraf.Wierzcholki.Where(w => w.IdentyfikatorGrupy.Value))
+                {
+                    grupa1.Append(wierzcholek.Numer + " ");
+                }
+                foreach (var wierzcholek in testowanyGraf.Wierzcholki.Where(w => !w.IdentyfikatorGrupy.Value))
+                {
+                    grupa2.Append(wierzcholek.Numer + " ");
+                }
+                MessageBox.Show("Graf jest dwudzielny pełny" 
+                    + Environment.NewLine + "Grupa 1: " 
+                    + grupa1.ToString() 
+                    + Environment.NewLine 
+                    + "Grupa 2: " 
+                    + grupa2.ToString()
+                    ,"Wynik"
+                    ,MessageBoxButton.OK,
+                     MessageBoxImage.Information);
+            }
             else
-                MessageBox.Show("Graf nie jest dwudzielny pełny");
+                MessageBox.Show("Graf nie jest dwudzielny pełny", "Wynik", MessageBoxButton.OK, MessageBoxImage.Information);
             this.Close();
         }
 

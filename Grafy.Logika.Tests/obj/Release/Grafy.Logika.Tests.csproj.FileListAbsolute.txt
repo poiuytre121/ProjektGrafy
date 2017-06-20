@@ -1,0 +1,7 @@
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Release\Grafy.Logika.Tests.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Release\Grafy.Logika.Tests.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Release\Grafy.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\bin\Release\Grafy.pdb
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Release\Grafy.Logika.Tests.csprojResolveAssemblyReference.cache
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Release\Grafy.Logika.Tests.dll
+E:\Poiu\Szkoła\Informatyka\Semestr4\Grafy i Sieci\ProjektGrafy\Grafy.Logika.Tests\obj\Release\Grafy.Logika.Tests.pdb
